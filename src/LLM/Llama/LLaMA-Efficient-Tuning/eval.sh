@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=0 python src/train_bash.py \
+    --stage sft \
+    --model_name_or_path ../llama-7b-hf \
+    --do_eval \
+    --dataset motion-128-test \
+    --template default \
+    --finetuning_type lora \
+    --checkpoint_dir output/motion-128/checkpoint-500 \
+    --output_dir output/motion-128 \
+    --per_device_eval_batch_size 8 \
+    --max_samples 1000 \
+    --predict_with_generate
