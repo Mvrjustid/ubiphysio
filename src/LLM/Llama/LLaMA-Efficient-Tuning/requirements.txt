@@ -12,6 +12,6 @@ nltk
 gradio>=3.36.0
 uvicorn
 pydantic==1.10.11
-fastapi==0.95.1
+fastapi==0.109.1
 sse-starlette
 matplotlib
