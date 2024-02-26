@@ -6,5 +6,5 @@ Official Repository for IMWUT/Ubicomp'24 paper
 ![fig1](https://github.com/Mvrjustid/ubiphysio/assets/14902853/bc8c644a-7fc3-4b10-b355-fa000d3ce8a3)
 
 # Timeline
-The codes together with utilitis will be made public available within Feburary 2024!
+The codes together with utilitis will be made public available within March 2024!
 Stay tuned : )
