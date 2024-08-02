@@ -1,0 +1,13 @@
+{
+  "finetuning_type": "lora",
+  "lora_alpha": 32.0,
+  "lora_dropout": 0.1,
+  "lora_rank": 8,
+  "lora_target": [
+    "q_proj",
+    "v_proj"
+  ],
+  "name_module_trainable": "mlp",
+  "num_hidden_layers": 32,
+  "num_layer_trainable": 3
+}
