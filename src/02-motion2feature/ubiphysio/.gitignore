@@ -1,0 +1,4 @@
+checkpoints/
+dataset/
+glove/glove.6B.300d.txt
+nlg-eval-data/
